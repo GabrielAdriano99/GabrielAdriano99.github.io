@@ -4,158 +4,158 @@
    **SEGUNDA 17 HORAS:**
       CHAPA:
 
-      DINARTE
-      MARCELO
+        DINARTE
+        MARCELO
 
       PIZZARIA:
 
-      ZÉ NETO
+        ZÉ NETO
 
       ATENDIMENTO:
 
-      CHINTIA
-      DIANE
+        CHINTIA
+        DIANE
 
       TELEMARKETING:
 
-      HELLEN
+        HELLEN
 
       CD:
 
-      MATHEUS
+        MATHEUS
       
    **TERÇA 17 HORAS:**
 
       CHAPA:
 
-      ARTHUR
-      DINARTE
-      SOCORRO
+        ARTHUR
+        DINARTE
+        SOCORRO
 
       PIZZARIA:
 
-      ROBSON
+        ROBSON
 
       ATENDIMENTO:
 
-      ALLAN
-      CHINTIA
+        ALLAN
+        CHINTIA
 
       TELEMARKETING: 
 
-      DIANE
+        DIANE
 
       CD:
 
-      GABRIEL
+        GABRIEL
 
    **QUARTA 17 HORAS:**
 
       CHAPA:
 
-      ARTHUR
-      MARCELO
-      SOCORRO
+        ARTHUR
+        MARCELO
+        SOCORRO
 
       PIZZARIA:
 
-      ZÉ NETO
+        ZÉ NETO
 
       ATENDIMENTO:
 
-      ALLAN
-      DIANE
+        ALLAN
+        DIANE
 
       TELEMARKETING:
 
-      HELLEN
+        HELLEN
 
       CD:
 
-      GABRIEL
-      MATHEUS
+        GABRIEL
+        MATHEUS
 
    **QUINTA 17 HORAS:**
 
       CHAPA:
 
-      ARTHUR
-      MARCELO
-      DINARTE
-      SOCORRO
+        ARTHUR
+        MARCELO
+        DINARTE
+        SOCORRO
 
       PIZZARIA:
 
-      ZÉ NETO
+        ZÉ NETO
 
       ATENDIMENTO:
 
-      ALLAN
-      CHINTIA
+        ALLAN
+        CHINTIA
 
       TELEMARKETING:
 
-      HELLEN
+        HELLEN
 
       CD:
 
-      GABRIEL
-      MATHEUS
+        GABRIEL
+        MATHEUS
 
    **SEXTA 17 HORAS:**
 
       CHAPA:
 
-      ARTHUR
-      MARCELO
-      DINARTE
-      SOCORRO
+        ARTHUR
+        MARCELO
+        DINARTE
+        SOCORRO
 
       PIZZARIA:
 
-      ZÉ NETO
+        ZÉ NETO
 
-      ATENDIMENTO:
+        ATENDIMENTO:
 
-      ALLAN
-      CHINTIA
+        ALLAN
+        CHINTIA
 
       TELEMARKETING:
 
-      HELLEN
-      DIANE
+        HELLEN
+        DIANE
 
       CD:
 
-      GABRIEL
-      MATHEUS
+        GABRIEL
+        MATHEUS
 
  **SÁBADO E DOMINGO 16 HORAS:**
 
       CHAPA:
 
-      ARTHUR
-      DINARTE
-      MARCELO
-      SOCORRO 
-      RODRIGO
+        ARTHUR
+        DINARTE
+        MARCELO
+        SOCORRO 
+        RODRIGO
 
       PIZZARIA:
 
-      ZÉ NETO
+        ZÉ NETO
 
       ATENDIMENTO:
 
-      ALLAN 
-      CHINTIA
+        ALLAN 
+        CHINTIA
 
       TELEMARKETING:
 
-      HELLEN
-      DIANE
+        HELLEN
+        DIANE
 
       CD:
 
-      GABRIEL
-      MATHEUS
+        GABRIEL
+        MATHEUS
 ```
